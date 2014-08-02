@@ -1,4 +1,6 @@
 Learning-Map
+
+Cutting a picture into pieces for fitting custom google map(API v2).
 ============
 crop.py
 
